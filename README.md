@@ -59,4 +59,4 @@
 
 ## 📁 Структура репозитория
 .
-├──
+├──Ноутбук с кодом[https://github.com/Elena-Kazakova-analyst/Bank-clients-credit-discipline-analysis/blob/main/bank_clients_credit_discipline_analysis.ipynb]
