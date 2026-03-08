@@ -57,6 +57,5 @@
   - **Сегмент BAD:** Рассмотреть возможность предложения кредитных продуктов с более низкими лимитами и повышенным контролем либо отказ в выдаче крупных сумм.
 - **Для отдела привлечения:** Пересмотреть эффективность каналов «Партнер» и «Стойка». Возможно, клиенты из этих каналов требуют более тщательной проверки на входе или для них нужны отдельные, более консервативные кредитные предложения.
 
-## 📁 Структура репозитория
-.
-├──Ноутбук с кодом[https://github.com/Elena-Kazakova-analyst/Bank-clients-credit-discipline-analysis/blob/main/bank_clients_credit_discipline_analysis.ipynb]
+- 🔗 Ссылки
+Ноутбук с кодом[https://github.com/Elena-Kazakova-analyst/Bank-clients-credit-discipline-analysis/blob/main/bank_clients_credit_discipline_analysis.ipynb]
